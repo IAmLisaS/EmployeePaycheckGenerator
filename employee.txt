@@ -1,0 +1,4 @@
+Emily Johnson 45 13.50 
+Fred Smith 38 16.40 
+Tom Jones 48 23.40 
+Larry Masterson  52 13.75
